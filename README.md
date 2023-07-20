@@ -4,6 +4,10 @@
 
 This is a simple 3D Runner game developed using Unity game engine. The objective of the game is to guide the character to reach the end of the path by touching the screen and dragging your finger left or right.
 
+## Play
+
+- [Itch.io](https://gr4ndsmurf.itch.io/run-granny-run)
+
 ## Gameplay
 
 - The player can control the character's movement by swiping left or right on the screen. The character will move horizontally within the given limit.
@@ -11,8 +15,6 @@ This is a simple 3D Runner game developed using Unity game engine. The objective
 - Collect coins scattered along the path to increase your score. The goal is to reach the end of the path with the highest score possible.
 - Be careful not to collide with obstacles along the way. Colliding with an obstacle will restart the level.
 - If the player successfully reaches the end of the path and collects enough coins, the player wins. Otherwise, the player loses the game.
-
-[Itch.io](https://gr4ndsmurf.itch.io/run-granny-run)
 
 ## Scripts
 
